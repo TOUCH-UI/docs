@@ -3,7 +3,7 @@
 		<img src="../../img/thumb/tapestry/tapestry.png">
 	</div>
 </div>
-- 前台WEB层涉及到的主要框架功能如下图所示：
+- 前台WEB层涉及到的主要框架功能如下图 所示：
 - 前台开发入门
 !['图片'](../../img/dynamicWeb/main.png "图片")
 
